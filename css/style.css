@@ -98,15 +98,16 @@ body {
 
 
 
-/*FOTO DE PERFIL*/
-    .ft {
 
-        text-align: center;
-        border-radius: 100px;
-        filter: brightness(70%);
-        padding-top: 40px;
-       
-    }
+.ft {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto; 
+    border-radius: 100px;
+    filter: brightness(70%);
+    margin-top: 40px; 
+}
+
 
     #ft {
 
